@@ -1,2 +1,2 @@
 # comparative-genom
-contains research on comparative genomic analysis of clinical isolates 
+contains a study on comparative genomic analysis of TB clinical isolates from Malawi
